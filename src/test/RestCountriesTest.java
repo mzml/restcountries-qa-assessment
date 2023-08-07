@@ -7,6 +7,5 @@ public class RestCountriesTest {
     @Test
     public void startMain() {
         RestCountries restCountries = new RestCountries();
-        String endPoint = restCountries.getEndPoint();
     }
 }
